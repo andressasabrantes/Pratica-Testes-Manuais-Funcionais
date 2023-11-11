@@ -1,0 +1,27 @@
+Caso de Teste 1: Adição de uma Nova Tarefa
+
+1. Passo 1: Acesso à Opção de Adicionar Tarefa
+   - Verificar se é possível encontrar a opção "Adicionar Tarefa" no menu principal.
+   - Clicar na opção e garantir que a página de adição de tarefa seja carregada corretamente.
+
+2. Passo 2: Preenchimento dos Campos Obrigatórios
+   - Na página de adição de tarefa, preencher os campos obrigatórios (Título e Descrição).
+   - Verificar se o sistema aceita corretamente as informações inseridas.
+
+3. Passo 3: Salvamento da Tarefa
+   - Após preencher os campos, clicar no botão "Salvar" e verificar se a tarefa é salva no sistema.
+   - Certificar-se de que a tarefa adicionada agora aparece na lista de tarefas do usuário.
+
+4. Passo 4: Exibição Correta na Lista de Tarefas
+   - Acessar a lista de tarefas e verificar se a nova tarefa está corretamente exibida.
+   - Garantir que os detalhes, como título e descrição, estejam corretos.
+
+Caso de Teste 2: Notificação por E-mail de Bug Crítico
+
+1. Passo 1: Relato de um Bug Crítico
+   - Simular o relato de um bug crítico no sistema, marcando-o como tal durante a triagem.
+   - Garantir que os detalhes do bug (descrição, gravidade) sejam corretamente inseridos.
+
+2. Passo 2: Verificação da Notificação por E-mail
+   - Verificar a caixa de e-mail da equipe de desenvolvimento para garantir que uma notificação por e-mail foi automaticamente enviada.
+   - Certificar-se de que o e-mail contém informações detalhadas sobre o bug relatado.

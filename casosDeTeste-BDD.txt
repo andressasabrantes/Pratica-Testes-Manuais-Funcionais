@@ -1,0 +1,16 @@
+Funcionalidade: Adição de Tarefa no Sistema de Gerenciamento de Tarefas
+
+  Cenário: Usuário adiciona uma nova tarefa
+    Dado que o usuário está logado no sistema
+    Quando o usuário acessa a opção "Adicionar Tarefa" no menu principal e preenche os campos obrigatórios com um título e descrição e clica no botão "Salvar"
+    Então a tarefa deve ser salva no sistema
+    E a nova tarefa deve ser exibida na lista de tarefas do usuário
+
+
+Funcionalidade: Notificação por E-mail de Bug Crítico
+
+  Cenário: Sistema envia automaticamente um e-mail ao detectar um bug crítico
+    Dado que um bug crítico é relatado no sistema e o bug é marcado como crítico durante a triagem
+    Quando o sistema aciona a notificação por e-mail automaticamente
+    Então a equipe de desenvolvimento deve receber um e-mail com detalhes do bug
+    E o e-mail deve incluir informações como descrição, gravidade e relatório do usuário
