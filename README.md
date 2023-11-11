@@ -1,4 +1,4 @@
-# Prática de Testes Manuais Funcionais - WEX DIO
+# Prática de Testes Manuais Funcionais - WEX | DIO
 
 ## Descrição
 
