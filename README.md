@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório é dedicado à Documentação da prática de testes manuais funcionais no contexto do projeto WEX DIO. Aqui, você encontrará recursos e guias práticos para a execução de testes manuais, proporcionando uma experiência hands-on para o entendimento e aplicação das melhores práticas de teste.
+Este repositório é dedicado à documentação da prática de testes manuais funcionais no contexto do projeto WEX DIO. Aqui, você encontrará recursos e guias práticos para a execução de testes manuais, proporcionando uma experiência hands-on para o entendimento e aplicação das melhores práticas de teste.
 
 ## Conteúdo
 
